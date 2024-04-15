@@ -2,6 +2,7 @@
 
 sources of images excel list in config/data folder
 link : https://github.com/pyMYSZ/Feed-The-Mouse-3/blob/main/config/data/Licenses.xlsx
+
 If the image is not on the list, it means that it was generated in ChatGPT 4
 
 sound sources - unfortunately I do not remember :Y
