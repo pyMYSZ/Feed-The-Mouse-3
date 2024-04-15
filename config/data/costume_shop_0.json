@@ -1,0 +1,512 @@
+{
+
+"money": 63,
+
+"costumes": {
+
+
+"costume_0": {
+
+
+
+"purchased": true,
+
+
+
+"price": 0,
+
+
+
+"description": "Mouse 1"
+
+
+},
+
+
+"costume_1": {
+
+
+
+"purchased": true,
+
+
+
+"price": 0,
+
+
+
+"description": "Mouse 2"
+
+
+},
+
+
+"costume_2": {
+
+
+
+"purchased": false,
+
+
+
+"price": 250,
+
+
+
+"description": "Corporate Mouse"
+
+
+},
+
+
+"costume_3": {
+
+
+
+"purchased": false,
+
+
+
+"price": 500,
+
+
+
+"description": "Ninja Mouse"
+
+
+},
+
+
+"costume_4": {
+
+
+
+"purchased": false,
+
+
+
+"price": 650,
+
+
+
+"description": "Captain Mouse"
+
+
+},
+
+
+"costume_5": {
+
+
+
+"purchased": false,
+
+
+
+"price": 650,
+
+
+
+"description": "Student Mouse"
+
+
+},
+
+
+"costume_6": {
+
+
+
+"purchased": false,
+
+
+
+"price": 500,
+
+
+
+"description": "Chilling Mouse"
+
+
+},
+
+
+"costume_7": {
+
+
+
+"purchased": false,
+
+
+
+"price": 725,
+
+
+
+"description": "Scuba Diver Mouse"
+
+
+},
+
+
+"costume_8": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1500,
+
+
+
+"description": "Gentlemouse"
+
+
+},
+
+
+"costume_9": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Kid Mouse"
+
+
+},
+
+
+"costume_10": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1650,
+
+
+
+"description": "Sommer Mouse"
+
+
+},
+
+
+"costume_11": {
+
+
+
+"purchased": false,
+
+
+
+"price": 350,
+
+
+
+"description": "Wizard Mouse"
+
+
+},
+
+
+"costume_12": {
+
+
+
+"purchased": false,
+
+
+
+"price": 10000,
+
+
+
+"description": "MC Mouse"
+
+
+},
+
+
+"costume_13": {
+
+
+
+"purchased": false,
+
+
+
+"price": 5000,
+
+
+
+"description": "Prankster Mouse"
+
+
+},
+
+
+"costume_14": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Spanish Mouse"
+
+
+},
+
+
+"costume_15": {
+
+
+
+"purchased": false,
+
+
+
+"price": 7500,
+
+
+
+"description": "Robin Mouse"
+
+
+},
+
+
+"costume_16": {
+
+
+
+"purchased": false,
+
+
+
+"price": 2500,
+
+
+
+"description": "Baseball Mouse"
+
+
+},
+
+
+"costume_17": {
+
+
+
+"purchased": false,
+
+
+
+"price": 10000,
+
+
+
+"description": "Sherlock Mouse"
+
+
+},
+
+
+"costume_18": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Cat's friend Mouse"
+
+
+},
+
+
+"costume_19": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Special Agent Mouse"
+
+
+},
+
+
+"costume_20": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Gangster Mouse"
+
+
+},
+
+
+"costume_21": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Mouse on SALE"
+
+
+},
+
+
+"costume_22": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Zombie Mouse"
+
+
+},
+
+
+"costume_23": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Mysz Wisniewski"
+
+
+},
+
+
+"costume_24": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Sheriff Mouse"
+
+
+},
+
+
+"costume_25": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Mouse Potter"
+
+
+},
+
+
+"costume_26": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Mouse the Builder,"
+
+
+},
+
+
+"costume_27": {
+
+
+
+"purchased": false,
+
+
+
+"price": 1000,
+
+
+
+"description": "Flash Mouse"
+
+
+}
+
+}
+}
